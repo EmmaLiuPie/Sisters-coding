@@ -1,4 +1,4 @@
-public class ChineseCooker implements Menu {
+public class ChineseCooker implements FoodMenu {
     public void chicken(){
         System.out.println("Chinese-chiken");
     }

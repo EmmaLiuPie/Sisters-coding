@@ -1,8 +1,8 @@
 import java.awt.Menu;
 
 public class Customer {
-    Menu m;
-    Customer(Menu m){
+    FoodMenu m;
+    Customer(FoodMenu m){
         this.m=m;
     }
 

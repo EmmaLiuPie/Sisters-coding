@@ -1,4 +1,4 @@
-public class AmericaCooker implements Menu {
+public class AmericaCooker implements FoodMenu {
     public void chicken(){
         System.out.println("America-chiken");
     }

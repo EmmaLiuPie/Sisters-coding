@@ -1,4 +1,4 @@
-public interface Menu {
+public interface FoodMenu {
      void chicken();
      void fish();
 }
