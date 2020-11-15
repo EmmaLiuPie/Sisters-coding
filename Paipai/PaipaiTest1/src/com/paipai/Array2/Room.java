@@ -14,5 +14,6 @@ public class Room {
     String roomNumber;
     int roomType;
     boolean isEmpty;
-
+    String guest_name;
 }
+

@@ -13,4 +13,18 @@ package com.paipai.Array2;
 
  */
 public class Test {
+    public static void main(String[] args) {
+        Hotel hh=new Hotel();
+        hh.checkIn("liupai",1);
+        hh.checkIn("muyipeng",1);
+        hh.checkIn("amanda",2);
+        hh.checkIn("annie",3);
+        hh.checkIn("david",2);
+
+        hh.checkOut("101");
+       // hh.checkIn("wangdan",1);
+        hh.checkOut("102");
+
+        hh.printRoomStatus();
+    }
 }
