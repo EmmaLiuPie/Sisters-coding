@@ -1,0 +1,13 @@
+<suite name="Default Suite">  <!-- 可定义测试套件名称 -->
+    <test name="TestNG">
+
+        <groups>
+            <run>
+                <include name="Monday"/>
+            </run>
+        </groups>
+        <classes >
+            <class name="Test02Test"/>
+        </classes >
+    </test> <!-- TestNG -->
+</suite> <!-- Default Suite -->

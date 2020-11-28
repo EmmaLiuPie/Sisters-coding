@@ -2,13 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb85da06-6dd1-4e7c-a214-88716a7dc427" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Pro1112/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Pro1112/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pro1112/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Pro1112/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pro1112/src/AmericaCooker.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pro1112/src/AmericaCooker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pro1112/src/ChineseCooker.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pro1112/src/ChineseCooker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pro1112/src/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pro1112/src/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pro1112/src/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pro1112/src/FoodMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pro1112/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pro1112/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNGLearn/.idea/TestNGLearn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNGLearn/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNGLearn/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNGLearn/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNGLearn/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNgLearn1/src/main/java/cn/lp/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNgLearn1/src/main/java/cn/lp/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNgLearn1/src/test/java/cn/lp/Test01Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNgLearn1/src/test/java/cn/lp/Test02Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNgLearn1/testNG.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classtest/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classtest/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classtest/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classtest/Classtest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classtest/out/production/Classtest/Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classtest/out/production/Classtest/Classtest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classtest/out/production/Classtest/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classtest/src/Classtest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LPTest/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LPTest/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LPTest/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LPTest/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LPTest/LPTest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LPTest/out/production/LPTest/com/alibaba/javase/day01/TestPackage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LPTest/out/production/LPTest/com/alibaba/javase/day01/TestPackage2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LPTest/out/production/LPTest/com/alibaba/javase/day02/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LPTest/out/production/LPTest/com/alibaba/javase/day02/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LPTest/out/production/LPTest/com/alibaba/javase/day02/TestPackage3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LPTest/out/production/LPTest/com/alibaba/javase/day02/TestSuper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LPTest/out/production/LPTest/com/alibaba/javase/day16/MyTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LPTest/out/production/LPTest/com/alibaba/javase/day16/Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LPTest/out/production/LPTest/com/alibaba/javase/day16/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LPTest/out/production/LPTest/com/alibaba/javase/day16/Test16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LPTest/out/production/LPTest/com/alibaba/javase/day16/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LPTest/src/com/alibaba/javase/day01/TestPackage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LPTest/src/com/alibaba/javase/day01/TestPackage2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LPTest/src/com/alibaba/javase/day02/TestPackage3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LPTest/src/com/alibaba/javase/day02/TestSuper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LPTest/src/com/alibaba/javase/day16/MyTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LPTest/src/com/alibaba/javase/day16/Number.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LPTest/src/com/alibaba/javase/day16/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LPTest/src/com/alibaba/javase/day16/Test16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LPTest/src/com/alibaba/javase/day16/Vehicle.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,21 +95,37 @@
         <entry file="file://$PROJECT_DIR$/Pro1112/Paipai.iml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
-              <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+              <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pro1112/src/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Pro1112/src/Test.java">
+        <entry file="file://$PROJECT_DIR$/Pro1112/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="36" lean-forward="true" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+            <state relative-caret-position="133">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -85,14 +138,15 @@
         <option value="$PROJECT_DIR$/Pro1112/src/ChineseCooker.java" />
         <option value="$PROJECT_DIR$/Pro1112/src/AmericaCooker.java" />
         <option value="$PROJECT_DIR$/Pro1112/src/Test.java" />
+        <option value="$PROJECT_DIR$/Pro1112/package.json" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-68" />
-    <option name="y" value="373" />
-    <option name="width" value="1890" />
-    <option name="height" value="960" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1943" />
+    <option name="height" value="1043" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -100,6 +154,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -110,19 +165,18 @@
             <path>
               <item name="Paipai" type="b2602c69:ProjectViewProjectNode" />
               <item name="Paipai" type="462c0819:PsiDirectoryNode" />
-              <item name="Pro1112" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Paipai" type="b2602c69:ProjectViewProjectNode" />
               <item name="Paipai" type="462c0819:PsiDirectoryNode" />
-              <item name="Pro1112" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -130,10 +184,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1605233639431" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Pro1112" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -161,17 +215,20 @@
       <workItem from="1605179144648" duration="408000" />
       <workItem from="1605180263834" duration="138000" />
       <workItem from="1605233546246" duration="110000" />
+      <workItem from="1605508358799" duration="93000" />
+      <workItem from="1605508479409" duration="167000" />
+      <workItem from="1606573364081" duration="203000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="783000" />
+    <option name="totallyTimeSpent" value="1246000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-45" y="249" width="1260" height="640" extended-state="0" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26206324" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.27728376" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -205,24 +262,10 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Pro1112/Paipai.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pro1112/src/FoodMenu.java">
+    <entry file="file://$PROJECT_DIR$/Pro1112/src/AmericaCooker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pro1112/src/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <caret column="46" selection-start-column="46" selection-end-column="46" />
         </state>
       </provider>
     </entry>
@@ -233,17 +276,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pro1112/src/AmericaCooker.java">
+    <entry file="file://$PROJECT_DIR$/Pro1112/src/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pro1112/src/FoodMenu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="46" selection-start-column="46" selection-end-column="46" />
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pro1112/Paipai.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Pro1112/src/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="36" lean-forward="true" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+        <state relative-caret-position="76">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pro1112/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
