@@ -2,52 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7d2adaf-7155-45e0-82dc-2afe2a77c21d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../PaiPaiJiHe/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PaiPaiJiHe/src/com/paipai/jihe/TestCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/TestNGLearn.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNgLearn1/src/main/java/cn/lp/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNgLearn1/src/main/java/cn/lp/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNgLearn1/src/test/java/cn/lp/Test01Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNgLearn1/src/test/java/cn/lp/Test02Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNgLearn1/testNG.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Classtest/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Classtest/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Classtest/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Classtest/Classtest.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Classtest/out/production/Classtest/Address.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Classtest/out/production/Classtest/Classtest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Classtest/out/production/Classtest/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Classtest/src/Classtest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LPTest/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LPTest/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LPTest/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LPTest/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LPTest/LPTest.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LPTest/out/production/LPTest/com/alibaba/javase/day01/TestPackage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LPTest/out/production/LPTest/com/alibaba/javase/day01/TestPackage2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LPTest/out/production/LPTest/com/alibaba/javase/day02/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LPTest/out/production/LPTest/com/alibaba/javase/day02/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LPTest/out/production/LPTest/com/alibaba/javase/day02/TestPackage3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LPTest/out/production/LPTest/com/alibaba/javase/day02/TestSuper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LPTest/out/production/LPTest/com/alibaba/javase/day16/MyTime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LPTest/out/production/LPTest/com/alibaba/javase/day16/Number.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LPTest/out/production/LPTest/com/alibaba/javase/day16/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LPTest/out/production/LPTest/com/alibaba/javase/day16/Test16.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LPTest/out/production/LPTest/com/alibaba/javase/day16/Vehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LPTest/src/com/alibaba/javase/day01/TestPackage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LPTest/src/com/alibaba/javase/day01/TestPackage2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LPTest/src/com/alibaba/javase/day02/TestPackage3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LPTest/src/com/alibaba/javase/day02/TestSuper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LPTest/src/com/alibaba/javase/day16/MyTime.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LPTest/src/com/alibaba/javase/day16/Number.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LPTest/src/com/alibaba/javase/day16/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LPTest/src/com/alibaba/javase/day16/Test16.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LPTest/src/com/alibaba/javase/day16/Vehicle.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PaiPaiJiHe/src/com/paipai/jihe/TestGeneric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PaiPaiJiHe/src/com/paipai/jihe/TestMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PaiPaiJiHe/src/com/paipai/jihe/TestMap2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PaiPaiJiHe/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PaiPaiJiHe/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PaiPaiJiHe/out/production/PaiPaiJiHe/com/paipai/jihe/TestCollection.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PaiPaiJiHe/out/production/PaiPaiJiHe/com/paipai/jihe/TestCollection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -87,9 +47,9 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="105" />
-    <option name="y" value="9" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="463" />
+    <option name="y" value="10" />
     <option name="width" value="1467" />
     <option name="height" value="1020" />
   </component>
@@ -101,9 +61,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -152,16 +112,18 @@
       <workItem from="1605870693569" duration="359000" />
       <workItem from="1605871793465" duration="139000" />
       <workItem from="1606573283944" duration="913000" />
+      <workItem from="1606627000022" duration="641000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4573000" />
+    <option name="totallyTimeSpent" value="5214000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="70" y="6" width="978" height="680" extended-state="0" />
+    <frame x="309" y="7" width="978" height="680" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2802198" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28586957" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
