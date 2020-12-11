@@ -1,6 +1,6 @@
 package JDBCTest01;//导入包
 import JDBCTest01.util.DataBaseClose;
-import JDBCTest01.util.DataBaseConnection;
+import JDBCTest01.util.DataBaseConnection_merchant;
 
 import java.sql.Connection;
 import java.sql.SQLException;
@@ -12,23 +12,9 @@ public class ConnectionTest {
     public static void main(String[] args) throws SQLException {
         //连接数据库
         Connection con = null;
-        DataBaseConnection dbconnection = new DataBaseConnection();
+        DataBaseConnection_merchant dbconnection = new DataBaseConnection_merchant();
         DataBaseClose dbclose = new DataBaseClose();
         con = dbconnection.doConnction(con);
-/*
-        //查询
-        Statement stmt = con.createStatement();
-        String sql;
-        sql = "SELECT * FROM `merchant` ";
-        ResultSet ret = stmt.executeQuery(sql);
-        while(ret.next()){
-            String name = ret.getString("name");
-            String address = ret.getString("address");
-            System.out.println("name:"+name);
-            System.out.println("address:"+address);
-        }
-*/
-
 
         //插入企业
         CreatCompany cc  = new CreatCompany();
