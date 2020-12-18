@@ -19,8 +19,8 @@ public class TestMerchant {
         Statement stmt = con.createStatement();
 
        //杨梅红  95。866分
-        double distance = 5338;
-        String id="6";
+        double distance = 2250;
+        String id="24";
 
         //贝乐   78。116分
      //   double distance =1414;
