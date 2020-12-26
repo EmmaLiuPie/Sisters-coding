@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74274b17-e0b3-4faa-b2df-3911391473d0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k0C9UJsd6mLbewBUuajz3oPKIe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+  </component>
+  <component name="RunManager" selected="Application.Test16">
+    <configuration name="Test16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alibaba.javase.day16.Test16" />
+      <module name="LPTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alibaba.javase.day16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPackage2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alibaba.javase.day01.TestPackage2" />
+      <module name="LPTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alibaba.javase.day01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alibaba.javase.day02.TestSuper" />
+      <module name="LPTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alibaba.javase.day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test16" />
+        <item itemvalue="Application.TestSuper" />
+        <item itemvalue="Application.TestPackage2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74274b17-e0b3-4faa-b2df-3911391473d0" name="Default Changelist" comment="" />
+      <created>1604827970988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604827970988</updated>
+      <workItem from="1604827972017" duration="6806000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1358" height="188" key="GridCell.Tab.0.bottom" timestamp="1605106238253">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state width="1358" height="188" key="GridCell.Tab.0.bottom/0.23.1440.792/-1600.63.1600.877@0.23.1440.792" timestamp="1604844516156" />
+    <state width="1358" height="188" key="GridCell.Tab.0.bottom/0.23.1440.795/-1600.63.1600.877@0.23.1440.795" timestamp="1605106238253" />
+    <state width="1358" height="188" key="GridCell.Tab.0.bottom/0.23.1440.877/-1600.63.1600.877@0.23.1440.877" timestamp="1604933380465" />
+    <state width="1358" height="188" key="GridCell.Tab.0.center" timestamp="1605106238252">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state width="1358" height="188" key="GridCell.Tab.0.center/0.23.1440.792/-1600.63.1600.877@0.23.1440.792" timestamp="1604844516154" />
+    <state width="1358" height="188" key="GridCell.Tab.0.center/0.23.1440.795/-1600.63.1600.877@0.23.1440.795" timestamp="1605106238252" />
+    <state width="1358" height="188" key="GridCell.Tab.0.center/0.23.1440.877/-1600.63.1600.877@0.23.1440.877" timestamp="1604933380464" />
+    <state width="1358" height="188" key="GridCell.Tab.0.left" timestamp="1605106238251">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state width="1358" height="188" key="GridCell.Tab.0.left/0.23.1440.792/-1600.63.1600.877@0.23.1440.792" timestamp="1604844516154" />
+    <state width="1358" height="188" key="GridCell.Tab.0.left/0.23.1440.795/-1600.63.1600.877@0.23.1440.795" timestamp="1605106238251" />
+    <state width="1358" height="188" key="GridCell.Tab.0.left/0.23.1440.877/-1600.63.1600.877@0.23.1440.877" timestamp="1604933380462" />
+    <state width="1358" height="188" key="GridCell.Tab.0.right" timestamp="1605106238252">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state width="1358" height="188" key="GridCell.Tab.0.right/0.23.1440.792/-1600.63.1600.877@0.23.1440.792" timestamp="1604844516155" />
+    <state width="1358" height="188" key="GridCell.Tab.0.right/0.23.1440.795/-1600.63.1600.877@0.23.1440.795" timestamp="1605106238252" />
+    <state width="1358" height="188" key="GridCell.Tab.0.right/0.23.1440.877/-1600.63.1600.877@0.23.1440.877" timestamp="1604933380465" />
+    <state x="86" y="39" key="new project wizard" timestamp="1605106234113">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state x="86" y="39" key="new project wizard/0.23.1440.795/-1600.63.1600.877@0.23.1440.795" timestamp="1605106234113" />
+  </component>
+</project>
