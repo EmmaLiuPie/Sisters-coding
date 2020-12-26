@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7d2adaf-7155-45e0-82dc-2afe2a77c21d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../PaiPaiJiHe/src/com/paipai/jihe/TestGeneric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PaiPaiJiHe/src/com/paipai/jihe/TestMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PaiPaiJiHe/src/com/paipai/jihe/TestMap2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PaiPaiJiHe/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PaiPaiJiHe/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PaiPaiJiHe/out/production/PaiPaiJiHe/com/paipai/jihe/TestCollection.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PaiPaiJiHe/out/production/PaiPaiJiHe/com/paipai/jihe/TestCollection.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -47,11 +43,11 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="463" />
-    <option name="y" value="10" />
-    <option name="width" value="1467" />
-    <option name="height" value="1020" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="106" />
+    <option name="y" value="91" />
+    <option name="width" value="1469" />
+    <option name="height" value="1022" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -61,9 +57,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -113,17 +109,17 @@
       <workItem from="1605871793465" duration="139000" />
       <workItem from="1606573283944" duration="913000" />
       <workItem from="1606627000022" duration="641000" />
+      <workItem from="1608373066789" duration="143000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5214000" />
+    <option name="totallyTimeSpent" value="5357000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="309" y="7" width="978" height="680" extended-state="1" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1111" height="591" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28586957" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25592417" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
