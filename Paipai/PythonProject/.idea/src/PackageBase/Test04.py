@@ -148,13 +148,3 @@ print(str2)
 for name1 in str1:
     if name1 not in str2:
         print(name1)
-
-# ageTable = '''
-#     诸葛亮, 28
-#     刘备, 48
-#     刘琦, 25
-#     赵云, 32
-#     张飞, 43
-#     关羽, 45
-# '''请写一个程序将其中 30岁以上和以下的人分别打印出来，类似这样
-
