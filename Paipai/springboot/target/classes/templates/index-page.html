@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script
+        src="https:cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <meta charset="UTF-8">
+    <title>CalculatorForPpi</title>
+</head>
+<body>
+    <form>
+        <input type="text" id="a" placeholder="长"><br>
+        <input type="text" id="b" placeholder="宽"><br>
+        <input type="text" id="c" placeholder="高"><br>
+        <button type="button" id="submit">计算</button>
+         <br><label id ="result"></label>
+    </form>
+<script>
+    $("#submit").click(function (){
+        $.ajax({
+            url:"calculate",
+            type:"post",
+            data:{
+                "a":$("#a").val(),
+                "b":$("#b").val(),
+                "c":$("#c").val(),
+            },
+            success:function (data) {
+            let json=JSON.parse(data);
+            $("#result").text("体积为："+json["PPI"])
+            }
+        })
+        }
+    )
+</script>
+</body>
+</html>
