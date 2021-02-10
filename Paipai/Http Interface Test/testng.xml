@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="suite">
+    <parameter name="para" value="bbv"></parameter>
+    <test thread-count="4" name="Test">
+        <classes>
+            <class name="com.liupai.httpinterfacetest.SaveMobilePhoneTest">
+            </class>
+        </classes>
+    </test><!--Test-->
+</suite><!--Suite-->
